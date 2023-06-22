@@ -1,0 +1,26 @@
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 2px;
+  padding: 2px
+}
+.enter{
+  margin: 5px;
+  padding: 5px;
+  width: 10vw;
+  text-align: center;
+}
+.button1{
+  margin: 5px;
+  padding: 5px;
+  width: 10vw;
+}
+.card{
+  border: solid 1px black;
+  justify-content: center;
+  align-items: center;
+  margin: 5px;
+  padding: 5px;
+}
